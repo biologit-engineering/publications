@@ -10,9 +10,13 @@
 
 # Publications Repo
 
-Check contents of this repo for published work by the biologit engineering team.
+Check contents of this repo for published work by the biologit team.
+
+## Talks
+
+* **[Regulatory guidance and AI transparency: lessons learned from the drug safety industry](https://github.com/biologit-engineering/publications/blob/main/talks/Datalift_JUN22_AI-in-Pharmacovigilance-Lessons.pdf)** - Bruno Ohana @ [The DataLift Summit](https://www.thedatalift.eu/), Berlin, June 2022
 
 ### Other useful sources:
 
-* **blog** - https://www.biologit.com/blog
+* **Biologit Blog** - https://www.biologit.com/blog
 * **MLM-AI Product documentation** - https://docs.biologit.com/
