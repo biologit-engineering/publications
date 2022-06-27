@@ -14,7 +14,7 @@ Check contents of this repo for published work by the biologit team.
 
 ## Talks
 
-* **[Regulatory guidance and AI transparency: lessons learned from the drug safety industry](https://github.com/biologit-engineering/publications/blob/main/talks/Datalift_JUN22_AI-in-Pharmacovigilance-Lessons.pdf)** - Bruno Ohana @ [The DataLift Summit](https://www.thedatalift.eu/), Berlin, June 2022
+* **[Regulatory guidance and AI transparency: lessons learned from the drug safety industry](https://github.com/biologit-engineering/publications/blob/main/talks/Datalift_JUN22_AI-in-Pharmacovigilance-Lessons.pdf)** - Bruno Ohana @ [The DataLift Summit](https://www.thedatalift.eu/), Berlin, June 2022 ([📺 video](https://www.youtube.com/watch?v=Ap0nfiRLtWg))
 
 ### Other useful sources:
 
